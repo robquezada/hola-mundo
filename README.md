@@ -1,2 +1,3 @@
 # hola-mundo
-Test proeject
+Test project
+Mathematician and developer for financial topics.
